@@ -1,0 +1,145 @@
+{
+	"topic": { "name": "World War II" },
+	"questions": [
+		{
+			"question": "When did World War II start?",
+			"options": ["1939", "1942", "1945", "1948"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Who was the Prime Minister of the United Kingdom during most of World War II?",
+			"options": [
+				"Franklin D. Roosevelt",
+				"Winston Churchill",
+				"Joseph Stalin",
+				"Adolf Hitler"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Which country was not a part of the Axis Powers during World War II?",
+			"options": ["Germany", "Japan", "Italy", "France"],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "What event led to the United States joining World War II?",
+			"options": [
+				"Pearl Harbor Attack",
+				"Battle of Stalingrad",
+				"D-Day Invasion",
+				"Bombing of Hiroshima"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Which city experienced a prolonged siege, lasting for over 870 days, during World War II?",
+			"options": ["Paris", "Berlin", "Leningrad", "Stalingrad"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Who was the Supreme Commander of the Allied forces in Europe during World War II?",
+			"options": [
+				"Dwight D. Eisenhower",
+				"Douglas MacArthur",
+				"George S. Patton",
+				"Bernard Montgomery"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Which two cities in Japan were targeted by atomic bombs in 1945?",
+			"options": [
+				"Tokyo and Osaka",
+				"Hiroshima and Nagasaki",
+				"Kyoto and Yokohama",
+				"Sapporo and Fukuoka"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "What was the code name for the Allied invasion of Normandy, France?",
+			"options": [
+				"Operation Barbarossa",
+				"Operation Market Garden",
+				"Operation Overlord",
+				"Operation Desert Storm"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Who was the leader of Nazi Germany during World War II?",
+			"options": [
+				"Benito Mussolini",
+				"Joseph Stalin",
+				"Adolf Hitler",
+				"Hirohito"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Which country was not a member of the Allied Powers during World War II?",
+			"options": ["Soviet Union", "United States", "China", "Italy"],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "What was the turning point for the Soviet Union during World War II?",
+			"options": [
+				"Battle of Britain",
+				"Battle of Midway",
+				"Battle of Stalingrad",
+				"Battle of Okinawa"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Which event led to the surrender of Japan and the end of World War II?",
+			"options": [
+				"Atomic bombings of Hiroshima and Nagasaki",
+				"Battle of Berlin",
+				"D-Day Invasion",
+				"Battle of Iwo Jima"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Who were the Axis Powers in World War II?",
+			"options": [
+				"United States, United Kingdom, Soviet Union",
+				"Germany, Japan, Italy",
+				"France, China, Australia",
+				"Spain, Portugal, Sweden"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Which country was invaded by Germany, leading to the start of World War II?",
+			"options": ["Poland", "France", "Austria", "Belgium"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "What was the name of the famous female aviator who disappeared during World War II?",
+			"options": [
+				"Rosa Parks",
+				"Marilyn Monroe",
+				"Audrey Hepburn",
+				"Amelia Earhart"
+			],
+			"correctOption": 3,
+			"points": 10
+		}
+	]
+}
